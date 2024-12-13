@@ -5,3 +5,4 @@
 #The dashboard was created with Google Looker Studio
 
 #update I went to improve the csv file and it was too much for the free version.
+#her eis the link: https://chatgpt.com/share/675b92e5-a1e4-800a-b6ae-ceeb931d4c41
